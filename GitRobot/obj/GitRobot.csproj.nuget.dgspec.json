@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arnau\\OneDrive\\DAM\\M09 Programacio de Serveis i Processos\\Projectes\\GitRobot\\GitRobot\\GitRobot.csproj": {}
+    "C:\\Users\\arnau\\OneDrive\\DAM\\M09 Programacio de Serveis i Processos\\UF1\\GitRobot\\GitRobot\\GitRobot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arnau\\OneDrive\\DAM\\M09 Programacio de Serveis i Processos\\Projectes\\GitRobot\\GitRobot\\GitRobot.csproj": {
+    "C:\\Users\\arnau\\OneDrive\\DAM\\M09 Programacio de Serveis i Processos\\UF1\\GitRobot\\GitRobot\\GitRobot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arnau\\OneDrive\\DAM\\M09 Programacio de Serveis i Processos\\Projectes\\GitRobot\\GitRobot\\GitRobot.csproj",
+        "projectUniqueName": "C:\\Users\\arnau\\OneDrive\\DAM\\M09 Programacio de Serveis i Processos\\UF1\\GitRobot\\GitRobot\\GitRobot.csproj",
         "projectName": "GitRobot",
-        "projectPath": "C:\\Users\\arnau\\OneDrive\\DAM\\M09 Programacio de Serveis i Processos\\Projectes\\GitRobot\\GitRobot\\GitRobot.csproj",
+        "projectPath": "C:\\Users\\arnau\\OneDrive\\DAM\\M09 Programacio de Serveis i Processos\\UF1\\GitRobot\\GitRobot\\GitRobot.csproj",
         "packagesPath": "C:\\Users\\arnau\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arnau\\OneDrive\\DAM\\M09 Programacio de Serveis i Processos\\Projectes\\GitRobot\\GitRobot\\obj\\",
+        "outputPath": "C:\\Users\\arnau\\OneDrive\\DAM\\M09 Programacio de Serveis i Processos\\UF1\\GitRobot\\GitRobot\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
