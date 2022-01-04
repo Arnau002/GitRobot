@@ -2,8 +2,14 @@
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:local="clr-namespace:GitRobot"
-             StartupUri="MainWindow.xaml">
+             StartupUri="View/wndParametres.xaml">
     <Application.Resources>
-         
+        <ResourceDictionary>
+            <BitmapImage x:Key="imgChest" UriSource="/img/chest.png"/>
+            <BitmapImage x:Key="imgSkelly_0" UriSource="/img/skelly_blue.png"/>
+            <BitmapImage x:Key="imgSkelly_1" UriSource="/img/skelly_red.png"/>
+            <BitmapImage x:Key="imgSkelly_2" UriSource="/img/skelly_green.png"/>
+            <BitmapImage x:Key="imgSkelly_3" UriSource="/img/skelly_yellow.png"/>
+        </ResourceDictionary>
     </Application.Resources>
 </Application>
