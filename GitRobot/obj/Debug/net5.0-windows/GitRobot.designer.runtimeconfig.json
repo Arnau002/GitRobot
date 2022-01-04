@@ -6,8 +6,8 @@
       "version": "5.0.0"
     },
     "additionalProbingPaths": [
-      "C:\\Users\\arnau\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\arnau\\.nuget\\packages",
+      "C:\\Users\\Arnau\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Arnau\\.nuget\\packages",
       "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ],
     "configProperties": {

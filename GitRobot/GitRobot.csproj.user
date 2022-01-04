@@ -7,7 +7,15 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="View\wndSimulacio.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
     <Page Update="View\wndParametres.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\wndSimulacio.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

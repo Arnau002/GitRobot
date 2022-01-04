@@ -21,3 +21,28 @@ C:\Users\Arnau\OneDrive\DAM\M09 Programacio de Serveis i Processos\UF1\GitRobot\
 C:\Users\Arnau\OneDrive\DAM\M09 Programacio de Serveis i Processos\UF1\GitRobot\GitRobot\obj\Debug\net5.0-windows\View\wndParametres.baml
 C:\Users\arnau\OneDrive\DAM\M09 Programacio de Serveis i Processos\UF1\GitRobot\GitRobot\obj\Debug\net5.0-windows\GitRobot.csprojAssemblyReference.cache
 C:\Users\arnau\OneDrive\DAM\M09 Programacio de Serveis i Processos\UF1\GitRobot\GitRobot\obj\Debug\net5.0-windows\App.baml
+F:\GitHub\GitRobot\GitRobot\bin\Debug\net5.0-windows\GitRobot.exe
+F:\GitHub\GitRobot\GitRobot\bin\Debug\net5.0-windows\GitRobot.deps.json
+F:\GitHub\GitRobot\GitRobot\bin\Debug\net5.0-windows\GitRobot.runtimeconfig.json
+F:\GitHub\GitRobot\GitRobot\bin\Debug\net5.0-windows\GitRobot.runtimeconfig.dev.json
+F:\GitHub\GitRobot\GitRobot\bin\Debug\net5.0-windows\GitRobot.dll
+F:\GitHub\GitRobot\GitRobot\bin\Debug\net5.0-windows\ref\GitRobot.dll
+F:\GitHub\GitRobot\GitRobot\bin\Debug\net5.0-windows\GitRobot.pdb
+F:\GitHub\GitRobot\GitRobot\obj\Debug\net5.0-windows\GitRobot.csproj.AssemblyReference.cache
+F:\GitHub\GitRobot\GitRobot\obj\Debug\net5.0-windows\View\wndParametres.g.cs
+F:\GitHub\GitRobot\GitRobot\obj\Debug\net5.0-windows\View\wndSimulacio.g.cs
+F:\GitHub\GitRobot\GitRobot\obj\Debug\net5.0-windows\App.g.cs
+F:\GitHub\GitRobot\GitRobot\obj\Debug\net5.0-windows\GitRobot_MarkupCompile.cache
+F:\GitHub\GitRobot\GitRobot\obj\Debug\net5.0-windows\GitRobot_MarkupCompile.lref
+F:\GitHub\GitRobot\GitRobot\obj\Debug\net5.0-windows\App.baml
+F:\GitHub\GitRobot\GitRobot\obj\Debug\net5.0-windows\View\wndParametres.baml
+F:\GitHub\GitRobot\GitRobot\obj\Debug\net5.0-windows\View\wndSimulacio.baml
+F:\GitHub\GitRobot\GitRobot\obj\Debug\net5.0-windows\GitRobot.g.resources
+F:\GitHub\GitRobot\GitRobot\obj\Debug\net5.0-windows\GitRobot.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\GitRobot\GitRobot\obj\Debug\net5.0-windows\GitRobot.AssemblyInfoInputs.cache
+F:\GitHub\GitRobot\GitRobot\obj\Debug\net5.0-windows\GitRobot.AssemblyInfo.cs
+F:\GitHub\GitRobot\GitRobot\obj\Debug\net5.0-windows\GitRobot.csproj.CoreCompileInputs.cache
+F:\GitHub\GitRobot\GitRobot\obj\Debug\net5.0-windows\GitRobot.dll
+F:\GitHub\GitRobot\GitRobot\obj\Debug\net5.0-windows\ref\GitRobot.dll
+F:\GitHub\GitRobot\GitRobot\obj\Debug\net5.0-windows\GitRobot.pdb
+F:\GitHub\GitRobot\GitRobot\obj\Debug\net5.0-windows\GitRobot.genruntimeconfig.cache
